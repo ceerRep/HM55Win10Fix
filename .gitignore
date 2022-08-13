@@ -1,0 +1,7 @@
+.vscode
+obj/*.o
+*.bin
+*.elf
+ld_script_env
+
+!nt6mbr.bin
